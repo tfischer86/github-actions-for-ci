@@ -1,1 +1,2 @@
-name: Pro Gamer Extrem Approval Workflow (TM)
+name: Team awesome's approval workflow
+on: pull_request_review
